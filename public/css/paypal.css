@@ -1,0 +1,6 @@
+body{
+	max-width: 960px;
+}
+#paypal-button-container{
+	display: none;
+}
